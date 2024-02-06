@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 
 <p align="center">
-Projeto Pyton para automatizar tarefas.<br/>
+Projeto Python para automatizar tarefas.<br/>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
